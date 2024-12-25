@@ -300,8 +300,8 @@ The second objective is to do Exploratory Data Analysis and find out the answers
 1. What are the top 10 cities with most customers?
 2. What are the top 10 states with most customers?
 3. Find what top 10 cities come under what states?
-4. What are the top 10 cities with most selles?
-5. What are the top 10 states with most selles?
+4. What are the top 10 cities with most sellers?
+5. What are the top 10 states with most sellers?
 6. Find what top 10 cities come under what states?
 7. Is there any relation between the geography of customers and sellers?
 
