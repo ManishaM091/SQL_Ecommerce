@@ -240,7 +240,7 @@ copy public.olist_products
 from '/Users/parmeetsingh/developer/SQL_ecommerceProject/Olist_Dataset/olist_products_dataset.csv'
 WITH (FORMAT csv, HEADER true, delimiter ',', encoding 'UTF8');
 ```
-### ***Table Olist_products***
+### ***Table Olist_order_items***
 
 This is the last table to be creted as it has relations with three tables with order_id, seller_id and Product_id as its foreign keys
 
